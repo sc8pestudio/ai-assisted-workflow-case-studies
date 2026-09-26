@@ -38,6 +38,8 @@ In March and April 2026, I explored this further through **Japandi Mockup Studio
 
 But a successful export was not the same as a commercially convincing result. The frame appearance still exposed problems with artificial-looking edges, materials and finishes. That pushed the work towards correcting frame geometry and experimenting with real donor textures, including beech wood, to create more believable frame surfaces.
 
+I also developed a series of AI-assisted room-placement tools to turn visual artwork positioning into measured coordinates. The workflow evolved from a single-room guide into reusable print-size and frame-footprint tools, then into a Universal Auto Detect version designed to recognise the source image size and generate consistent placement guidance across different square room-image sizes. Earlier saved placement records document use of the workflow, while the final Auto Detect version survives as inspected code rather than a runtime-verified finished product.
+
 Repeated problems with alignment, artwork openings, pale edges, proportions and other visual inaccuracies then pushed the work towards increasingly measured geometry and controlled visual QA.
 
 From there, the workflow developed into more reusable production methods involving controlled frame assets, Photoshop Smart Objects, Photoshop and Photopea testing, buyer documentation, automated checks and structured review.
